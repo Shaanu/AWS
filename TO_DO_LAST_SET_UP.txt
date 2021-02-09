@@ -1,0 +1,19 @@
+1. Take backup of all personal documents - Certifications, Resumes and Bios 
+2. Take experience certificate
+3. Make a list of softwares used and installed - Documents
+4. AWS related docs - read
+5. Supervisor and Agent Dashboard
+
+Software: PyCharm, MobaXterm, Putty, MicroStrategy, Oracle VirtualBox, VMWare Player, MOngoDB, Apache NiFi, Zoom, WinSCP, Cyberduck, Visual Studio, BeyondCompare, TextPad 4, Notepad++, Brackets, Datadog, Docker Desktop (Playgrounds/Sandboxes), KodeKloud, EmEditor, Apache Kafka,
+Git, GitHub, Java, Eclipse, MongoDB, Office 365, Robo3T, S3 Browser, UiPath, Splunk, Microsoft Encarta (Archive.org), etc
+
+ISO - Parrot, Kali Linux, StationX, etc
+
+-----------------
+Piyush Task - 
+
+
+Evershine - Mahabaleshwar - Hill StationX
+Lonavala
+
+Decide Date and Venue
